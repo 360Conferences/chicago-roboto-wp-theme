@@ -471,6 +471,11 @@
         font-size: 14px;
     }
 
+    .row {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
     .btn {
         max-width: 100%;
     }

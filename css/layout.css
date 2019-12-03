@@ -667,13 +667,13 @@ h2 + .btn-header {
 }
 .landing h1 {
     display: block;
-    font-size: 80px; font-weight: 300;
+    font-size: 80px;
+    font-weight: 300;
     line-height: 1;
     letter-spacing: 0;
     text-transform: uppercase;
     padding: 89px 0 0;
     margin: 0 0 20px;
-    height: 245px;
 }
 .landing h1 > span {
     display: block;
@@ -689,7 +689,9 @@ h2 + .btn-header {
 }
 .landing .bg {
     position: absolute;
-    left: 0; right: 0; height: 752px;
+    left: 0;
+    right: 0;
+    height: 675px;
     background-repeat: no-repeat;
     background-size: cover;
     z-index: -1;
